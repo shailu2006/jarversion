@@ -1,4 +1,4 @@
-# jarversion
+# Jar file compiled java version finder
 Java version is a tool that identifies the version of the JDK the jar file was built in. 
 
 # How to use the class?
