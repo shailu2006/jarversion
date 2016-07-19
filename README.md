@@ -12,7 +12,7 @@ Replace the jarFileLocation with the path to your file name.
 
 Check [Wiki link](https://github.com/shailu2006/jarversion/wiki) for more details.
 
-# TODO
+## TODO
 * Validation to check if the file is a valid JAR, WAR, EAR and it contains an valid class file. 
 * Take an folder as an input and scan the folder for JAR files and given an output which file is compiled in what version.
 * Create an HTML report of the jar files parsed and thier versions. 
