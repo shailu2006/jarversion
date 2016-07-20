@@ -16,3 +16,6 @@ Check [Wiki link](https://github.com/shailu2006/jarversion/wiki) for more detail
 * Validation to check if the file is a valid JAR, WAR, EAR and it contains an valid class file. 
 * Take an folder as an input and scan the folder for JAR files and given an output which file is compiled in what version.
 * Create an HTML report of the jar files parsed and thier versions. 
+* JSON output
+* XML output
+* JAVA Object output
